@@ -31,9 +31,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srgmnagar&theme=github-compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=srgmnagar&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srgmnagar&layout=compact&theme=github_dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
