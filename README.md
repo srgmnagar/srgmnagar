@@ -27,6 +27,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srgmnagar&" alt="srgmnagar" /></p>
 
+### 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srgmnagar&theme=github-compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=srgmnagar&theme=github-dark)
+
+![GitHub Contributions](https://ghchart.rshah.org/srgmnagar)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
