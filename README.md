@@ -33,8 +33,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=srgmnagar&theme=github-dark)
 
-![GitHub Contributions](https://ghchart.rshah.org/srgmnagar)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srgmnagar&layout=compact&theme=github_dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
